@@ -7,7 +7,7 @@ body {
 .main {
   display: flex;
   flex-direction: row-reverse;
-  width: 1200px;
+  width: 1050px;
   margin: 0 auto;
 }
 
@@ -128,8 +128,6 @@ body {
 }
 
 .work {
-  /* margin-left: 105px;
-   */
   margin-left: 90px;
   padding-right: 200px;
 }

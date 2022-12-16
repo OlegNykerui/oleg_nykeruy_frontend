@@ -8,7 +8,7 @@ body {
   display: flex;
   flex-direction: row-reverse;
   width: 1200px;
-  margin: 0;
+  margin: 0 auto;
 }
 
 .main_content {
@@ -19,14 +19,14 @@ body {
 
 /* about styles */
 .about_wrapper {
-  /* background: #edf6ff; */
   background: linear-gradient(90deg, #b9deed, #efefef);
-  padding-bottom: 5px;
+  padding-top: 75px;
   border-bottom: 2px solid #fb6d3a;
 }
 .about {
   margin-bottom: 40px;
-  margin-left: 70px;
+  margin-left: 90px;
+  padding-top: 60px;
 }
 .about_position {
   font-style: normal;
@@ -48,7 +48,6 @@ body {
   color: #000000;
   margin-bottom: 15px;
   margin-top: 0;
-  padding-top: 60px;
 }
 
 .about_description {
@@ -116,10 +115,8 @@ body {
 }
 
 .projects {
-  /* margin-bottom: 50px; */
-  /* margin-left: 105px; */
-  margin-left: 70px;
-  width: 500px;
+  margin-left: 79px;
+  padding-right: 200px;
 }
 
 /* work styles */
@@ -133,7 +130,8 @@ body {
 .work {
   /* margin-left: 105px;
    */
-  margin-left: 70px;
+  margin-left: 90px;
+  padding-right: 200px;
 }
 
 .work_position {
@@ -169,7 +167,7 @@ body {
 }
 
 .work_list_item {
-  width: 500px;
+  /* width: 500px; */
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -187,7 +185,7 @@ body {
 
 .education {
   /* margin-left: 105px; */
-  margin-left: 70px;
+  margin-left: 90px;
 }
 
 .university {

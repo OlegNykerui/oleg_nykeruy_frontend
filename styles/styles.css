@@ -7,7 +7,7 @@ body {
 .main {
   display: flex;
   flex-direction: row-reverse;
-  width: 1150px;
+  width: 1050px;
   margin: 0 auto;
 }
 
